@@ -1,0 +1,7 @@
+*.obj
+*.exe
+*.bak
+bank.txt
+cashbook.txt
+temp.new
+minus.new
